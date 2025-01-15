@@ -21,7 +21,7 @@ layout:
 
 # Welcome
 
-Welcome to the Maintenance Care Book Starter! Here you'll get an overview of all the amazing features Maintenance Care offers to help you manage your CMMS.
+Hello, Welcome to the Maintenance Care Book Starter! Here you'll get an overview of all the amazing features Maintenance Care offers to help you manage your CMMS.
 
 Our CMMS maintenance program lets you manage work orders, preventive maintenance, and asset tracking from any device. With Maintenance Care's user-friendly system, access your maintenance work anytime, anywhere.
 
