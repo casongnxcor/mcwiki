@@ -8,7 +8,7 @@ To access the login page, follow these steps:
 4. Enter your username and password in the provided fields.
 5. Click the "Login" button to access your account.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
