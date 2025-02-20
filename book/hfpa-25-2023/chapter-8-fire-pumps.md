@@ -2,15 +2,17 @@
 
 ### Fire Pumps
 
-Enhanced ContentCollapse
-
+{% hint style="success" %}
 Chapter 8 addresses the inspection, testing, and maintenance (ITM) of fire pumps and related equipment. In most cases where fire pumps are installed, the fire protection systems they connect to would be ineffective in fire control if the pumps and connected drivers were not fully functioning. Therefore, proper maintenance is critical to help ensure constant system readiness at all times.&#x20;
+{% endhint %}
 
 Fire pumps and their associated equipment also constitute a major investment, ranging in cost from $20,000 to more than $1,000,000 when suction tanks are required.&#x20;
 
 Fire pumps are typically required for effective fire protection system operations. When pumps that were put in place to protect a facility must be removed from service for repairs, the facility can become unprotected for the duration of the repair. In some of these situations, the protection of property and life is considered impaired, resulting in a shutdown of operations mandated by the authority having jurisdiction (AHJ) until repairs are made. This shutdown could result in major business interruption loss and costly pump repairs. Thus, the failure to properly maintain fire pumps and related equipment can quickly result in significant direct and indirect costs.
 
-[8.1\*](https://link.nfpa.org/publications/25/2023/annexes/A/groups/8#ID000250001692) General.8.1.1 Minimum Requirements.8.1.1.1&#x20;
+### [8.1\*](https://link.nfpa.org/publications/25/2023/annexes/A/groups/8#ID000250001692) General.
+
+8.1.1 Minimum Requirements.8.1.1.1&#x20;
 
 This chapter shall provide the minimum requirements for the routine inspection, testing, and maintenance of fire pump assemblies installed in accordance with NFPA 20 or other approved installation standard.
 
@@ -455,7 +457,9 @@ The procedures outlined in Chapter [15](https://link.nfpa.org/publications/25/20
 
 ***
 
-8.2 Inspection.8.2.1&#x20;
+### 8.2 Inspection.
+
+8.2.1&#x20;
 
 The purpose of inspection shall be to verify that the pump assembly appears to be in operating condition and is free from physical damage.
 
@@ -708,7 +712,9 @@ Diesel fire pumps are required by NFPA 20 to have two battery banks. During the 
 
 ***
 
-[8.3\*](https://link.nfpa.org/publications/25/2023/annexes/A/groups/8#ID000250001702) Testing.8.3.1 Frequency.Enhanced ContentCollapse
+### [8.3\*](https://link.nfpa.org/publications/25/2023/annexes/A/groups/8#ID000250001702) Testing.
+
+8.3.1 Frequency.Enhanced ContentCollapse
 
 The weekly testing requirement in 8.3.1 has generated significant discussion in the fire protection industry over the years. Weekly testing of fire pumps can be costly due to the time required. Many owners do not have qualified personnel and must contract the tests to a qualified contractor or service provider, which can cost $5,000 to $10,000 or more annually. Electricity and diesel fuel are expensive and further add to the costs. In addition, it is difficult to apply a one-size-fits-all approach to testing such a critical piece of equipment given all the possible configurations of the equipment and the various controllers. For this reason, the standard permits a performance-based testing schedule beyond the weekly frequency recommended that is subject to approval by the AHJ. Performance-based testing requires a review of the historical data for the particular system to determine what should be the appropriate performance-based test frequency.
 
@@ -1688,7 +1694,9 @@ A written or electronic record of the results of the investigation and the corre
 
 ***
 
-8.4 Reports.[8.4.1\*](https://link.nfpa.org/publications/25/2023/annexes/A/groups/8#ID000250002215)&#x20;
+### 8.4 Reports
+
+.[8.4.1\*](https://link.nfpa.org/publications/25/2023/annexes/A/groups/8#ID000250002215)&#x20;
 
 A complete written report of the fire pump test results shall be prepared for and retained by the owner.
 
@@ -1724,7 +1732,9 @@ Although no formal recording process is mandated by the standard, there are seve
 
 ***
 
-8.5 Maintenance.[8.5.1\*](https://link.nfpa.org/publications/25/2023/annexes/A/groups/8#ID000250001730)&#x20;
+### 8.5 Maintenance.
+
+[8.5.1\*](https://link.nfpa.org/publications/25/2023/annexes/A/groups/8#ID000250001730)&#x20;
 
 A preventive maintenance program shall be established on all components of the pump assembly in accordance with the manufacturer’s recommendations or an approved alternative maintenance plan.
 
