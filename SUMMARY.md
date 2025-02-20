@@ -53,6 +53,13 @@
 * [Dropbox](integrations/dropbox.md)
 * [SSO](integrations/sso.md)
 
+***
+
+* [Book](book/README.md)
+  * [HFPA 25 2023](book/hfpa-25-2023/README.md)
+    * [Chapter 9 — Water Storage Tanks](book/hfpa-25-2023/chapter-9-water-storage-tanks.md)
+    * [Chapter 8 — Fire Pumps](book/hfpa-25-2023/chapter-8-fire-pumps.md)
+
 ## Policies
 
 * [Term of Service](https://www.maintenancecare.com/)
